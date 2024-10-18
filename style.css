@@ -1,6 +1,8 @@
 body{
     background-color: black;
     color:whitesmoke;
-    header:text-align:center;
-    h1:text-align:center;
+
+    <header>{
+        text-align:center;
+    }</header>
 }
